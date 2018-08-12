@@ -1,0 +1,10 @@
+.menu-btn {
+  position: absolute;
+  top: 35px;
+  right: 35px;
+  cursor: pointer; }
+  .menu-btn .btn-line {
+    width: 30px;
+    height: 3px;
+    margin: 0 0 5px 0;
+    background: white; }
